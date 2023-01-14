@@ -1,3 +1,5 @@
+// Aqui foi adicioado a logica para identificar as empresas pelo id também, e fazer o redirecionamento para a pagina de  listagem das empresas.
+
 package br.com.alura.gerenciador.servlet;
 
 import java.io.IOException;
