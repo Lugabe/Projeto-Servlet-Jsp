@@ -1,3 +1,6 @@
+//Classe criada para simular um banco de dados para guardar as empresas em uma ArrayList
+
+
 package br.com.alura.gerenciador.servlet;
 
 import java.util.ArrayList;
